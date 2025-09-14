@@ -4,6 +4,7 @@ This is a simple Tic-Tac-Toe (XO) Game built using HTML, CSS, and JavaScript.
 It is a 2-player game where one player uses O and the other uses X. The first to align 3 symbols in a row, column, or diagonal wins.
 
 📂 Project Structure
+
 tic-tac-toe/
 │
 ├── index.html        # Main HTML file
@@ -49,6 +50,7 @@ CSS3 – For styling and layout
 JavaScript (Vanilla JS) – For game logic
 
 🚀 Getting Started
+
 1. Clone this repository
 git clone https://github.com/your-username/tic-tac-toe.git
 
@@ -59,8 +61,11 @@ cd tic-tac-toe
 
 Just open index.html in any modern browser (Chrome, Firefox, Edge, etc.).
 
-📸 Screenshots
+## Demo
 
+![Home page](screenshots/image-2.png)
+![While playing](screenshots/image.png)
+![Winner page](screenshots/image-1.png)
 
 
 
